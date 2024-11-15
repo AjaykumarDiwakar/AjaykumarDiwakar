@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykumardiwakar&show_icons=true&locale=en&layout=compact" alt="ajaykumardiwakar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumardiwakar&" alt="ajaykumardiwakar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjaykumarDiwakar&" alt="ajaykumardiwakar" /></p>
