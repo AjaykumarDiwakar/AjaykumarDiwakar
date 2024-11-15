@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <a href="https://git.io/typing-svg">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" />
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
