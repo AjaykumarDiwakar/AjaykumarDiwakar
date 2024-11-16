@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykumardiwakar&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykumardiwakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjaykumarDiwakar&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykumardiwakar" /> </p>
 
 - 🌱 I’m currently learning **Springboot**
 
